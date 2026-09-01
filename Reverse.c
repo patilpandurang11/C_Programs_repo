@@ -1,5 +1,6 @@
 #include<stdio.h>
-/*Iterative function to reverse digit of num*/
+/*Iterative function to */
+/*reverse digit of num*/
 int reverse(int num)
 
 {
