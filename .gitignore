@@ -1,0 +1,10 @@
+# Compiled binaries / executable output files
+*.o
+*.out
+Cube
+
+# VS Code directory settings
+.vscode/
+
+# System-generated files
+.DS_Store
